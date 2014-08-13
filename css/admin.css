@@ -1,0 +1,16 @@
+.admin-title{
+	font-family: 'colaborate-regularregular';
+}
+
+.meeting-name{
+	font-family: 'colaborate-regularregular';
+	display:inline-block;
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+}
+
+.share-access-code-btn{
+	width:100%;
+	margin-bottom:10px;
+}

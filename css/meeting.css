@@ -1,0 +1,29 @@
+.upvote-btn{
+	float:right;
+	display:inline-block;
+}
+
+.question-btn{
+	width:100%;
+}
+
+.question{
+	overflow-wrap: break-word;
+}
+
+#meeting-name-content{
+	font-family: 'colaborate-regularregular';
+}
+
+.error-notification{
+	display:none;
+}
+
+
+.votes{
+	display:inline-block;
+}
+
+h3{
+	margin-top:5px;
+}

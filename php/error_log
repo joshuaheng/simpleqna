@@ -1,0 +1,17 @@
+[16-Apr-2014 12:20:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/heng3/public_html/q&atool/php/functions.php on line 6
+[16-Apr-2014 12:22:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/heng3/public_html/q&atool/php/functions.php on line 6
+[16-Apr-2014 12:22:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/heng3/public_html/q&atool/php/functions.php on line 6
+[16-Apr-2014 12:46:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/heng3/public_html/q&atool/php/functions.php on line 5
+[16-Apr-2014 12:46:34 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home/heng3/public_html/q&atool/php/functions.php on line 4
+[16-Apr-2014 12:48:05 America/Chicago] PHP Fatal error:  Call to undefined function password_hash() in /home/heng3/public_html/q&atool/php/functions.php on line 4
+[16-Apr-2014 15:40:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$rows' (T_VARIABLE) in /home/heng3/public_html/q&atool/php/functions.php on line 30
+[16-Apr-2014 15:40:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/heng3/public_html/q&atool/php/functions.php on line 30
+[16-Apr-2014 16:07:40 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/heng3/public_html/q&atool/php/functions.php on line 35
+[16-Apr-2014 16:21:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/heng3/public_html/q&atool/php/functions.php on line 58
+[16-Apr-2014 16:22:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/heng3/public_html/q&atool/php/functions.php on line 58
+[16-Apr-2014 17:29:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'addNewMeeting' (T_STRING) in /home/heng3/public_html/q&atool/php/addNewMeeting.php on line 9
+[16-Apr-2014 18:19:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/heng3/public_html/q&atool/php/functions.php on line 78
+[16-Apr-2014 18:19:45 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/heng3/public_html/q&atool/php/functions.php on line 79
+[16-Apr-2014 18:19:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/heng3/public_html/q&atool/php/functions.php on line 78
+[16-Apr-2014 18:19:56 America/Chicago] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/heng3/public_html/q&atool/php/functions.php on line 79
+[30-Apr-2014 11:46:41 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/heng3/public_html/qnatool/php/downloadData.php on line 9

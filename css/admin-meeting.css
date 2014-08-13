@@ -1,0 +1,25 @@
+#admin-meeting-name-content{
+	font-family: 'colaborate-regularregular';
+}
+
+.question{
+	overflow-wrap: break-word;
+	height:auto;
+}
+
+.admin-meeting-btn{
+	float:right;
+	margin-top:15px;
+	margin-left:10px;
+}
+
+.votes{
+	display:inline-block;
+}
+
+@media(max-width: 767px){
+	.admin-meeting-btn{
+		float:none;
+		margin-left:0px;
+	}
+}
